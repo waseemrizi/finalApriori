@@ -1,0 +1,7 @@
+Eggs,Bagel,Tea,Coffee,CreamCheese
+Cream,Bread,Tea,Sugar,Coffee,Milk
+Eggs,Cheese,Bagel,Cream,Bread,Coffee
+Bagel,Bread,Tea,Sugar,CreamCheese
+Eggs,Bagel,Cream,Bread,Tea,CreamCheese
+Eggs,Cheese,Cream
+
